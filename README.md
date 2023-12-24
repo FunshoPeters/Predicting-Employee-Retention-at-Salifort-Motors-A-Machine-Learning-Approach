@@ -4,7 +4,7 @@
 
 This project focuses on analyzing employee turnover at Salifort Motors, a leader in alternative energy vehicles. Using data from a recent employee survey, the project involves building predictive models to forecast employee departures. Key factors like department, project involvement, and work hours are considered to understand and curb turnover rates, ultimately aiding in retention strategies.
 
-### Documents
+#### Documents Included
 <img src="assets\images\Documents Included.png">
 
 ### Business Understanding
