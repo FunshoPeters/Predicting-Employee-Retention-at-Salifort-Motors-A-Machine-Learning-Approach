@@ -1,6 +1,6 @@
 ## Predictive Analysis of Employee Turnover at Salifort Motors
 
-### Project Overview
+### Overview
 
 This project focuses on analyzing employee turnover at Salifort Motors, a leader in alternative energy vehicles. Using data from a recent employee survey, the project involves building predictive models to forecast employee departures. Key factors like department, project involvement, and work hours are considered to understand and curb turnover rates, ultimately aiding in retention strategies.
 
@@ -15,6 +15,8 @@ The HR dataset for Salifort Motors, sourced internally, comprises detailed recor
 ### Modeling and Evaluation
 
 Models such as logistic regression, decision trees, random forest, and XGBoost are evaluated to predict turnover. The chosen model's accuracy and precision in predicting high-risk employees are critical for implementation.
+
+<img src="assets\images\Employee Turnover by Salary Level.png">
 
 ### Conclusion
 
