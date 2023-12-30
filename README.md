@@ -4,6 +4,9 @@
 
 This project focuses on analyzing employee turnover at Salifort Motors, a leader in alternative energy vehicles. Using data from a recent employee survey, the project involves building predictive models to forecast employee departures. Key factors like department, project involvement, and work hours are considered to understand and curb turnover rates, ultimately aiding in retention strategies.
 
+#### Documents Included
+<img src="assets\images\Documents Included.png">
+
 ### Business Understanding
 
 Recent studies have highlighted the impact of employee turnover in the automotive industry. According to a report by the Society for Human Resource Management, the average cost of losing a skilled employee can range from six to nine months of the employee's salary. For a company like Salifort Motors, with its focus on specialized skills and innovation, this cost could be even higher (Smith, J., & Doe, A. (2020). "The Impact of Employee Turnover in the Automotive Industry." Journal of Business Studies).
